@@ -1,1 +1,2 @@
-# mag-sem4-IT_e-learning
+# Интеллектуальные технологии e-learning
+
